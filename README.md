@@ -41,7 +41,7 @@ I am a Automation QA Engineer.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Programming languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" **alt="Cplusplus" width="40" height="40"/>&nbsp;
@@ -58,3 +58,12 @@ I am a Automation QA Engineer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" **alt="Azure" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :left_speech_bubble: Languages :
+- :speech_balloon: English - B2
+- :speech_balloon: Sakha - Native
+- :speech_balloon: Russian - Native
+- :speech_balloon: Chinese - HSK-4
+- :speech_balloon: Norwegian - A2
