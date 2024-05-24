@@ -29,15 +29,14 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Automation QA Engineer.
+I am a Software Developer in Test.
 
 ---
 
-- :pencil2: Writing autotest cases on C++ and Java.
+- :pencil2: C++, Go and Python3
 - :memo: Writing test documentation.
 - :computer: Testing Desktop application on macOS, Linux and Windows.
 - :mailbox:How to reach me: androsov.tg@gmail.com
-- :hourglass: In my free time love playing basketball :basketball:, learning deep into computer scince :man_scientist:
 
 ---
 
@@ -65,5 +64,3 @@ I am a Automation QA Engineer.
 - :speech_balloon: English - B2
 - :speech_balloon: Sakha - Native
 - :speech_balloon: Russian - Native
-- :speech_balloon: Chinese - HSK-4
-- :speech_balloon: Norwegian - A2
