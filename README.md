@@ -28,39 +28,18 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
-I am a Software Developer in Test.
+### About Me :
+My name is Timur, an experienced Software Engineer with +3 years.
+
+Currently studying Go and backend development.
+
+### My stack:
+C++, Python, Go, SQL, PostgreSQL, Windows, Linux, macOS, AzureDevOps, Jira, GitHub, GitLab, Git, SVN, Swagger, Postman, Docker, Confluence
 
 ---
 
-- :pencil2: C++, Go and Python3
-- :memo: Writing test documentation.
-- :computer: Testing Desktop application on macOS, Linux and Windows.
-- :mailbox:How to reach me: androsov.tg@gmail.com
-
----
-
-### :hammer_and_wrench: Programming languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" **alt="Cplusplus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-plain-wordmark.svg" title="centos" **alt="centos" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" **alt="Apple" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="Ssh" **alt="Ssh" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="vs" **alt="vs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" **alt="Azure" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### :left_speech_bubble: Languages :
-- :speech_balloon: English - B2
-- :speech_balloon: Sakha - Native
-- :speech_balloon: Russian - Native
+### Experience:
+| Dates | Role | Company |
+|-------------|-------------|-------------|
+| Nov, 2021-present | Middle Software Developer in Test | <img src="https://capitalizeconsulting.com/wp-content/uploads/2021/02/ABBYY.png" width="300"/> |
+| May, 2021-Nov, 2021 | Junior QA Engineer | <img src="https://koniglabs.ru/wp-content/uploads/2019/05/Group-20-200x96@2x.png" width="300"/> |
