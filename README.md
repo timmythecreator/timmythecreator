@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/timur-androsov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/Timmy2k/">
+  <a href="https://leetcode.com/u/Troell/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=gray" alt="Leetcode Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/19227904/troell">
@@ -31,10 +31,8 @@
 ### About Me :
 My name is Timur, an experienced Software Engineer with +3 years.
 
-Currently studying Go and backend development.
-
 ### My stack:
-C++, Python, Go, SQL, PostgreSQL, Windows, Linux, macOS, AzureDevOps, Jira, GitHub, GitLab, Git, SVN, Swagger, Postman, Docker, Confluence
+C/C++, Python, Go, SQL, PostgreSQL, Windows, Linux, macOS, AzureDevOps, Jira, GitHub, GitLab, Git, SVN, Swagger, Postman, Docker, Confluence
 
 ---
 
