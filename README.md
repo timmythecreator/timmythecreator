@@ -39,5 +39,6 @@ C/C++, Python, Go, SQL, PostgreSQL, Windows, Linux, macOS, AzureDevOps, Jira, Gi
 ### Experience:
 | Dates | Role | Company |
 |-------------|-------------|-------------|
+| Dec, 2024-Present | Test Analyst | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Playrix_logo.svg/2560px-Playrix_logo.svg.png" width="300"/> |
 | Nov, 2021-Dec, 2024 | Middle Software Developer in Test | <img src="https://capitalizeconsulting.com/wp-content/uploads/2021/02/ABBYY.png" width="300"/> |
 | May, 2021-Nov, 2021 | Junior QA Engineer | <img src="https://koniglabs.ru/wp-content/uploads/2019/05/Group-20-200x96@2x.png" width="300"/> |
