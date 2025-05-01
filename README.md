@@ -24,15 +24,11 @@
   </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ### About Me :
-My name is Timur, an experienced Software Engineer with +3 years.
+My name is Timur, an experienced Test Engineer with +4 years.
 
 ### My stack:
-C/C++, Python, Go, SQL, PostgreSQL, Windows, Linux, macOS, AzureDevOps, Jira, GitHub, GitLab, Git, SVN, Swagger, Postman, Docker, Confluence
+C/C++, Python, Go, SQL, PostgreSQL, Windows, Linux, macOS, iOS, Android, AzureDevOps, Jira, Asana, GitHub, GitLab, TeamCity, Git, SVN, Swagger, Postman, Docker, Confluence, Game Testing
 
 ---
 
@@ -40,5 +36,5 @@ C/C++, Python, Go, SQL, PostgreSQL, Windows, Linux, macOS, AzureDevOps, Jira, Gi
 | Dates | Role | Company |
 |-------------|-------------|-------------|
 | Dec, 2024-Present | Test Analyst | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Playrix_logo.svg/2560px-Playrix_logo.svg.png" width="300"/> |
-| Nov, 2021-Dec, 2024 | Middle SDET | <img src="https://capitalizeconsulting.com/wp-content/uploads/2021/02/ABBYY.png" width="300"/> |
-| May, 2021-Nov, 2021 | Junior QA Engineer | <img src="https://koniglabs.ru/wp-content/uploads/2019/05/Group-20-200x96@2x.png" width="300"/> |
+| Nov, 2021-Dec, 2024 | SDET | <img src="https://capitalizeconsulting.com/wp-content/uploads/2021/02/ABBYY.png" width="300"/> |
+| May, 2021-Nov, 2021 | QA Engineer | <img src="https://koniglabs.ru/wp-content/uploads/2019/05/Group-20-200x96@2x.png" width="300"/> |
