@@ -28,7 +28,7 @@
 My name is Timur, an experienced Test Engineer with +4 years.
 
 ### My stack:
-C/C++, Python, Go, SQL, PostgreSQL, Windows, Linux, macOS, iOS, Android, AzureDevOps, Jira, Asana, GitHub, GitLab, TeamCity, Git, SVN, Swagger, Postman, Docker, Confluence, Game Testing
+C/C++, Python, Go, SQL, Windows, Linux, macOS, iOS, Android, AzureDevOps, Jira, Asana, Qase, Allure TestOps, GitHub, GitLab, TeamCity, Git, SVN Tortoise, Postman, Docker, Confluence, Game Testing, Unity. Browserstack, Appium, Sentry, Amplitude, AppsFlyer, Ads, Facebook SDK, Firebase
 
 ---
 
