@@ -28,13 +28,13 @@
 My name is Timur, an experienced Test Engineer with +4 years.
 
 ### My stack:
-C/C++, Python, Go, SQL, Windows, Linux, macOS, iOS, Android, AzureDevOps, Jira, Asana, Qase, Allure TestOps, GitHub, GitLab, TeamCity, Git, SVN Tortoise, Postman, Docker, Confluence, Game Testing, Unity. Browserstack, Appium, Sentry, Amplitude, AppsFlyer, Ads, Facebook SDK, Firebase
+C/C++, Python, Go, SQL, Windows, Linux, macOS, iOS, Android, bash, cmd, powershell, Mobile testing, Web testing, API testing, Desktop testing, Game Engine testing, AI/ML testing, Backend, Frontend testing, Azure DevOps, Jira, Asana, Qase, Allure TestOps, GitHub, GitLab, TeamCity, Git, SVN Tortoise, Postman, Docker, Confluence, Unity, Browserstack, Appium, Sentry, Amplitude, AppsFlyer, Ads, Facebook SDK, Firebase, Network (OSI, TCP/IP Models)
 
 ---
 
 ### Experience:
 | Dates | Role | Company |
 |-------------|-------------|-------------|
-| Dec, 2024-Present | Test Analyst | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Playrix_logo.svg/2560px-Playrix_logo.svg.png" width="300"/> |
+| Dec, 2024-Aug, 2025 | Test Analyst | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Playrix_logo.svg/2560px-Playrix_logo.svg.png" width="300"/> |
 | Nov, 2021-Dec, 2024 | SDET | <img src="https://capitalizeconsulting.com/wp-content/uploads/2021/02/ABBYY.png" width="300"/> |
 | May, 2021-Nov, 2021 | QA Engineer | <img src="https://koniglabs.ru/wp-content/uploads/2019/05/Group-20-200x96@2x.png" width="300"/> |
